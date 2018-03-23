@@ -17,6 +17,10 @@ This project is presented by the team named Bye Felicia!!! Our project consists 
 
 ## MATLAB Code
 
+[MATLAB_Code.m](MATLAB_Code.m)
+
+This MATLAB code receives a numerical value from Arduino every two seconds. It then builds an array of all the values received over a set time and plots it into a histogram of number of lights on vs time. The histogram divides the values into four different bins related to the range of the relays. These are represented on the x-axis as the number of lights that are on. Because the y-axis is the number of units each bin has, it should be noted that the number needs to be double to account for the two second delay from the Arduino.
+
 ## Results
 
 ## Future Work
