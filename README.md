@@ -15,6 +15,10 @@ This project is presented by the team named Bye Felicia!!! Our project consists 
 
 ## Arduino Code
 
+[Arduino_Code.ino](Arduino_Code.ino)
+
+The Arduino .ino file was uploaded to the Arduino using the Arduino IDE. Ensure the ```COM``` port is set correctly before trying to upload.
+
 ## MATLAB Code
 
 [MATLAB_Code.m](MATLAB_Code.m)
